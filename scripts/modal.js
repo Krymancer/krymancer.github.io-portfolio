@@ -24,6 +24,24 @@ $(document).ready(function() {
       tag: "Node.js",
       detail: "Dashboard for startup SSC - Super Smart Cart",
       link: "https://supersmartcart.herokuapp.com"
+    },
+    classicmario: {
+      title: "Mario Bros Clone",
+      tag: "Javascript",
+      detail: "The NES Mario Bros clone using only javascript",
+      link: "https://krymancer.github.io/classic-mario"
+    },
+    tindev: {
+      title: "Tindev",
+      tag: "Node.js",
+      detail: "Full tinder-like apllication",
+      link: "https://tindev-frontstage.herokuapp.com"
+    },
+    ascii: {
+      title: "Ascii Fluids Dinamycs",
+      tag: "Node.js",
+      detail: "Fluids dinamycs using text in c++",
+      link: "https://github.com/krymancer/ascii-fluids/"
     }
   };
 
