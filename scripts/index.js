@@ -145,7 +145,7 @@ $(function() {
       e.preventDefault();
   
         $.ajax({
-            url: "https://formspree.io/junior.nascm@gmail.com",
+            url: "https://formspree.io/xwknlrpb",
             method: "POST",
             data: { message: $('form').serialize() },
             dataType: "json"
