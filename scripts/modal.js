@@ -1,11 +1,11 @@
 $(document).ready(function () {
   // MODAL
   var modalText = {
-    classicmario: {
-      title: "Mario Bros Clone",
-      tag: "Javascript",
-      detail: "The NES Mario Bros clone using only javascript",
-      link: "https://krymancer.github.io/classic-mario"
+    slack: {
+      title: "SlackClone",
+      tag: "Node.js",
+      detail: "Full slack-like application",
+      link: "https://krymancer.github.io/slack-clone-client"
     },
     aircnc: {
       title: "AirCnc",
@@ -31,11 +31,11 @@ $(document).ready(function () {
       detail: "Full ong-like application",
       link: "https://github.com/Krymancer/bethehero"
     },
-    ascii: {
-      title: "Ascii Fluids Dinamycs",
-      tag: "C",
-      detail: "Fluids dinamycs using text in c++",
-      link: "https://github.com/krymancer/ascii-fluids/"
+    ecoleta: {
+      title: "Ecoleta",
+      tag: "Node.js",
+      detail: "Full marketplace-like application",
+      link: "https://github.com/krymancer/ecoleta"
     }
   };
 
